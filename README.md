@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi there 👋 I'm a Data Scientist!
+=====================================
 
-<!--
-**NNtorvas/NNtorvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hands-on results-oriented computer scientist with profound interest in cutting-edge global new technologies and special focus in Data Science and Data-driven Astronomy.
+------------------------------------
 
-Here are some ideas to get you started:
+* ✉️  You can contact me at [nntorvas@gmail.com](mailto:nntorvas@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+
+<p align="left"> 
+<a href="https://www.github.com/NNtorvas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/nntorvas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://twitter.com/NNtorvas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Tools | Frameworks 
+
+Data Preprocessing: Python: NumPy, Pandas. R: data.table, dplyr, tidyr. 
+
+Machine and Deep Learning Implementation Framework: Scikit-Learn. 
+
+Data Visualization: Python: Matplotlib, Tableau, Seaborn. R: ggplot2, Esquisse. 
+
+Integrated Development Environment: Jupyter-Notebook, Microsoft Visual Code, Spyder, RStudio.
