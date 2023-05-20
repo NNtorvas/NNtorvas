@@ -17,7 +17,7 @@ Hands-on results-oriented computer scientist with profound interest in cutting-e
 
 Data Preprocessing: Python: NumPy, Pandas. R: data.table, dplyr, tidyr. 
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, keras, fastai. 
+Machine and Deep Learning Implementation Framework: Scikit-Learn, keras, nltk, fastai. 
 
 Data Visualization: Python: Matplotlib, Tableau, Seaborn. R: ggplot2, Esquisse. 
 
