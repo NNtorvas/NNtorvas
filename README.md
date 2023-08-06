@@ -1,7 +1,9 @@
 Hi there 👋 I'm a Data Scientist!
 =====================================
 
-Hands-on results-oriented computer scientist with profound interest in cutting-edge global new technologies and special focus in Data Science, Data Analysis, Machine Learning, Business Analysis and a peculiar interest in Data-driven Astronomy.
+Hands-on results-oriented data scientist with profound interest in cutting-edge global new technologies and special focus in Data Science, Data Analysis, Machine Learning and Business Analysis.
+
+I have helped businesses and research teams find insights through analysis, make their work faster by managing data and time and improve performance through machine learning and AI engineering.
 ------------------------------------
 
 * ✉️  You can contact me at [nntorvas@gmail.com](mailto:nntorvas@gmail.com)
