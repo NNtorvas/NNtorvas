@@ -18,7 +18,7 @@ I have helped businesses and research teams find insights through analysis, make
 
 Data Preprocessing: Python: NumPy, Pandas. R: data.table, dplyr, tidyr. 
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, keras, nltk, fastai, LSTM. 
+Machine and Deep Learning Implementation Framework: Scikit-Learn, keras, nltk, fastai, LSTM, ARIMA. 
 
 Data Visualization: Python: Matplotlib, Tableau, Seaborn. R: ggplot2, Esquisse. 
 
