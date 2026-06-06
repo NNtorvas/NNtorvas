@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Nikolaos Ntorvas
-## ML Engineer → AI Engineer
+## ML/AI Engineer
 
 Production-focused ML Engineer with a strong foundation in data engineering, 
 classical ML, and a sharp focus on LLM systems, RAG pipelines, and agentic AI. 
